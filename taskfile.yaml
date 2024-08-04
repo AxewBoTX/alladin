@@ -1,0 +1,10 @@
+version: "3"
+
+env:
+  BINARY_NAME: "clipd"
+
+tasks:
+  dev:
+    - go run .
+  build:
+    - go build -o $BINARY_NAME .

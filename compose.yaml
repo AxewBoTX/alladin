@@ -1,0 +1,10 @@
+name: clipd
+
+services:
+  clipd:
+    container_name: clipd
+    build:
+      context: .
+      dockerfile: dev.dockerfile
+    volumes:
+      - .:/usr/src/app
