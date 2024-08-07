@@ -1,8 +1,8 @@
-name: clipd
+name: alladin
 
 services:
-  clipd:
-    container_name: clipd
+  alladin:
+    container_name: alladin
     build:
       context: .
       dockerfile: dev.dockerfile

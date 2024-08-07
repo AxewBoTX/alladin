@@ -1,3 +1,3 @@
-module gihtub.com/axewbotx/clip-downloader
+module gihtub.com/axewbotx/alladin
 
 go 1.22.4
