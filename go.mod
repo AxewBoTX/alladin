@@ -1,3 +1,3 @@
-module gihtub.com/axewbotx/alladin
+module github.com/axewbotx/alladin
 
 go 1.22.4
